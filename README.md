@@ -1,2 +1,1 @@
-# goorm
-구름톤 연습용
+# 구름톤 연습용 repository
